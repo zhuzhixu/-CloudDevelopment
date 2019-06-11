@@ -16,7 +16,7 @@ ajax     mvc思想  设计模式  html   css   微信小程序
 
 1.先掌握 java （多线程也需要掌握）js 编程语言
 
-2.掌握spring 的基础 了解 ioc 控制反转  懂得spring运行的原理 @autowirte @controller 之类的注解要明白什么意思和用途 。 拿到spring 项目能清楚了解他们的分层构思 ，知道怎么写控制层代码
+2.掌握spring 的基础 了解 ioc 控制反转  懂得spring运行的原理 @autowirte @controller 之类的注解要明白什么意思和用途 ,会用jpa。 拿到spring 项目能清楚了解他们的分层构思 ，知道怎么写控制层代码 
 
 3.弄懂 webmagic 框架的爬虫思想 试着写基础爬虫
 
